@@ -1,4 +1,3 @@
-#Estecambioesopcional
 valoresCol1 = []
 valoresCol2 = []
 A = []
